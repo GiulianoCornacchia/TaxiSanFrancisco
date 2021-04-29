@@ -7,8 +7,8 @@
 ___
 This project aims to analyze the GPS traces of 536 taxis operating in San Francisco over 25 days.
 
-The methods and tools used in this project are the ones presented in the Ph.D. course "Data Mining & Machine Learning Fundamentals" held by Mirco Nanni, a Researcher at ISTI - CNR in Pisa.
+The methods and tools used in this project are the ones presented in the Ph.D. course "Data Mining & Machine Learning Fundamentals" held by Mirco Nanni, a Researcher at ISTI - CNR in Pisa (Italy).
 
 The dataset containing the mobility trajectories can be freely downloaded at https://crawdad.org/epfl/mobility/20090224/.
 ___
-Author: <a href="https://kdd.isti.cnr.it/people/cornacchia-giuliano">Giuliano Cornacchia</a>, Ph.D. student.
+Author: <a href="https://kdd.isti.cnr.it/people/cornacchia-giuliano">Giuliano Cornacchia</a>, Ph.D. student in Computer Science from the University of Pisa (Italy).
