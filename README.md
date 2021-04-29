@@ -11,3 +11,4 @@ The methods and tools used in this project are the ones presented in the Ph.D. c
 
 The dataset containing the mobility trajectories can be freely downloaded at https://crawdad.org/epfl/mobility/20090224/.
 ___
+Author: <a href="https://kdd.isti.cnr.it/people/cornacchia-giuliano">Giuliano Cornacchia</a>, Ph.D. student.
