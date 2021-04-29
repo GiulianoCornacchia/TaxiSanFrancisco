@@ -1,0 +1,1 @@
+This folder contains the processed datasets created during the project; they also are used to avoid re-executing time-consuming operations.
